@@ -1,0 +1,119 @@
+<!DOCTYPE html>
+<html lang="en">
+<link rel="stylesheet" href="style.css">
+
+<head>
+    <title>Whatsapp</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link rel="stylesheet" href="style.css">
+
+</head>
+<body>
+    <header>
+        <div class="header_upperpart">
+            <span class="whatsapplogo">
+                Whatsapp
+            </span>
+            <span class="header_top_icons">
+                <i class="fa fa-search" aria-hidden="true"></i>
+                <i class="fa fa-ellipsis-v" aria-hidden="true"></i>
+            </span>
+        </div>
+        
+        <div class="header_lowerpart">
+            <span class="active">
+                CHATS
+            </span>
+            <span class="header_lowerpart_options">
+                STATUS
+            </span>
+            <span class="header_lowerpart_options">
+                CALLS
+            </span>
+
+
+        </div>
+    </header>
+    <div class="chat_Container">
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+        <div class="chat">
+            <div class="profile">
+                <img src="https://cdn.pixabay.com/photo/2015/10/05/22/37/blank-profile-picture-973460_960_720.png" alt="profile picture">
+            </div>
+
+            <div class="name">
+                Sherlyn
+            </div>
+            <div class="message">
+                Hello, how are you?
+        </div>
+    </div>
+    
+</body>
+</html> 
+
